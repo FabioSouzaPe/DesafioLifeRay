@@ -1,0 +1,3 @@
+Livro,12.49,false,false
+Cd,14.99,true,false
+Chocolate,0.85,false,false
